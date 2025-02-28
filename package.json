@@ -9,22 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.1.7",
     "@tekion/tap-components": "3.0.0-duo-setup-v2",
     "@tekion/tekion-base": "5.7.5",
     "@tekion/tekion-components": "4.4.1",
     "@tekion/tekion-styles-next": "3.0.10",
+    "antd": "^5.0.0",
+    "next": "^15.2.0",
     "node-sass": "6.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "sass": "1.55.0",
-    "sass-loader": "^10.0.0",
-    "antd": "^5.0.0"
+    "sass-loader": "^10.0.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
     "eslint": "^9",
-    "eslint-config-next": "15.1.7",
-    "@eslint/eslintrc": "^3"
+    "eslint-config-next": "15.1.7"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

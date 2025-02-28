@@ -1,0 +1,20 @@
+export const keyToLabelMapping = {
+    account_id: 'Account Id',
+    status: 'Status',
+    email_id: 'Email Id',
+    dealer_first_sell_implementation_status: 'First Cell Status',
+    basic_detail: 'Basic Detail',
+    account_owner: 'Account Owner',
+    account_contact: 'Account Contact',
+    account_communication: 'Account Communication',
+    products: 'Products',
+    dealer_name: 'Dealer Name',
+    dealer_group_name: 'Dealer Group Name',
+    task_name: 'Task Name',
+    task_id: 'Task Id',
+    assignee: 'Assignee',
+    status: 'Status',
+    story_points: 'Story Points',
+    start_date: 'Start Date',
+    week_worked_on: 'Week Worked On'
+  };
